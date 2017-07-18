@@ -3,7 +3,7 @@ public class OddOccurrencesInArray {
 	public static int solution(int[] A) {
 	        // write your code in Java SE 8
 		if ( A.length == 0) {
-			return -1;
+			return -1;  
 		}
 		int pair = 0;
 		

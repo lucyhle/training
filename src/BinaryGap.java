@@ -3,7 +3,7 @@ public class BinaryGap {
 	static int solution(int n) {
 	    return solution(n, 0, 0);
 	}
-
+//plop
 	static int solution(int n, int max, int current) {
 	    if (n == 0)
 	        return max;
